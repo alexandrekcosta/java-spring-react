@@ -1,0 +1,9 @@
+package com.devsuperior.dsmeta.entities;
+
+public class Sale {
+	
+	private Long id;
+	private sellerName;
+	private Integer visited;
+
+}

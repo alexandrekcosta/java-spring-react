@@ -1,0 +1,18 @@
+package com.devsuperior.dsmeta.services;
+
+import java.util.List;
+
+import com.devsuperior.dsmeta.entities.Sale;
+import com.devsuperior.dsmeta.repositories.SaleRepository;
+
+public class SaleService {
+	
+	private SaleRepository repository;
+	
+	public List<Sale> findSales() {
+		
+		
+		
+	}
+
+}
